@@ -1,6 +1,6 @@
 # VLJGS
 
-Start
+## Start
 
 conda create -n vljgs python=3.8
 
@@ -20,18 +20,18 @@ The backbone is pre-trained on the COD10K dataset.
 
 Please put the pretrain model into the ./pretrain folder, and please change the dataset_path.py to your dataset path.
 
-#Train/Test SimGas dataset:
+## Train/Test SimGas dataset:
 
    python kfold_train.py
 
    python kfold_test.py
 
-#Train/Test GasVid/IGS-Few dataset:
+## Train/Test GasVid/IGS-Few dataset:
 
   python normal_train.py
   
   python normal_test.py
 
 
-Citing 
+## Citing 
 
