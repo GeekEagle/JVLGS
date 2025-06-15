@@ -26,7 +26,7 @@ Please put the pretrain model into the ./pretrain folder, and please change the 
 
    python kfold_test.py
 
-## Train/Test GasVid/IGS-Few dataset:
+## Train/Test IGS-Few dataset:
 
   python normal_train.py
   
