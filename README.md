@@ -1,6 +1,5 @@
 # JVLGS
 
-Paper: [arXiv](https://arxiv.org/abs/2508.19485)
 
 ## Start
 ```
