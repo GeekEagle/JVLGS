@@ -15,16 +15,17 @@ pip install mmsegmentation
 ```
 The backbone is pre-trained on the COD10K dataset.   
 
-[Dataset & Pretrained Backbone Link](https://drive.google.com/drive/folders/1EuQyTL3lETJLGCM31Kh4IYmLsLcPoMQn?usp=sharing)
+[Dataset & Pretrained Backbone & Model Link](https://drive.google.com/drive/folders/1EuQyTL3lETJLGCM31Kh4IYmLsLcPoMQn?usp=sharing)
+Our proposed model is trained on the IGS-Few and SimGas datasets, whose training files are available on the Drive link.
 
-Please put the pretrain model into the ./pretrain folder, and please change the dataset_path.py to your dataset path.
+Please put the pretrained model into the ./pretrain folder, and please change the dataset_path.py to your dataset path.
 
-## Train/Test SimGas dataset:
+## Train/Test SimGas dataset (k-fold training):
 ```
 python kfold_train.py
 python kfold_test.py
 ```
-## Train/Test IGS-Few dataset:
+## Train/Test IGS-Few and other datasets (Few-shot or supervised):
 ```
 python normal_train.py
 python normal_test.py
