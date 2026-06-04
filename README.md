@@ -3,8 +3,8 @@
 
 ## Start
 ```
-conda create -n vljgs python=3.8
-conda activate vljgs
+conda create -n jvlgs python=3.8
+conda activate jvlgs
 ```
 install [2.4.1 pytorch, torchvision, and torchaudio](https://pytorch.org/get-started/previous-versions/) 
 
