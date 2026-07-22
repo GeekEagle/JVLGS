@@ -1,6 +1,6 @@
 # JVLGS
 
-📄 **Paper:** [The Visual Computer](https://link.springer.com/article/10.1007/s00371-026-04591-y?status=info&saved-doi=10.1007%2Fs00371-026-04591-y)  
+📄 **Paper:** [JVLGS: joint vision–language gas leak segmentation](https://link.springer.com/article/10.1007/s00371-026-04591-y?status=info&saved-doi=10.1007%2Fs00371-026-04591-y)  
 ## Start
 ```
 conda create -n jvlgs python=3.8
