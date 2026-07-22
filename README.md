@@ -32,6 +32,7 @@ python normal_test.py
 ```
 
 ## Citing 
+```
 @article{Zhao2026JVLGS,
   author  = {Zhao, Xinlong and Pang, Qixiang and Du, Shan},
   title   = {JVLGS: Joint Vision--Language Gas Leak Segmentation},
@@ -43,3 +44,4 @@ python normal_test.py
   doi     = {10.1007/s00371-026-04591-y},
   url     = {https://doi.org/10.1007/s00371-026-04591-y}
 }
+```
